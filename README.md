@@ -5,5 +5,4 @@ My project in C++ programming language, with two classes (robot and game class) 
 2. Press 2 to test game with custom settings" (does not work always)
 3. Press 3 to test game with default settings + extra info"
 
-# Video link
-https://youtu.be/0ZoWTjOx_ok
+Video link: https://youtu.be/0ZoWTjOx_ok
