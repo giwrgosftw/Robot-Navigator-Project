@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IN2029 Programming in C++ Coursework", "IN2029 Programming in C++ Coursework\IN2029 Programming in C++ Coursework.vcxproj", "{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Debug|x64.ActiveCfg = Debug|x64
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Debug|x64.Build.0 = Debug|x64
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Debug|x86.Build.0 = Debug|Win32
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Release|x64.ActiveCfg = Release|x64
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Release|x64.Build.0 = Release|x64
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Release|x86.ActiveCfg = Release|Win32
+		{68618F1F-5CD0-4DC7-AE1F-0A27AEAC5E4E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0741B1C8-EA9F-4CC1-91A5-5738E60427FE}
+	EndGlobalSection
+EndGlobal
