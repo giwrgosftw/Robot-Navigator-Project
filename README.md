@@ -6,4 +6,4 @@ My project in C++ programming language, with two classes (robot and game class) 
 3. Press 3 to test game with default settings + extra info"
 
 # Video link
-https://youtu.be/nziChjkngUg
+https://youtu.be/0ZoWTjOx_ok
