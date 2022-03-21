@@ -1,4 +1,4 @@
-# C++ Robots Navigation Project
+# C++ Robot Navigator Project
 **School of Computer Science (BSc) - City University of London 2018-2019**
 
 The project is written in C++ programming language and it has two classes (robot and game class). It is a simple game with robots moving around in a 2-dimensional map by using constant functions. 
